@@ -4,7 +4,12 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 # Index
 
+* [GitHub](#github)
 * [Unix](#unix)
+
+
+## GitHub
+* [Diffs in Pull Request](github/pr_diff.md)
 
 
 ## Unix
