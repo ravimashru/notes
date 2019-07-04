@@ -4,10 +4,14 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 # Index
 
+* [Deep Learning](#deep-learning)
 * [GitHub](#github)
 * [Ubuntu](#ubuntu)
 * [Unix](#unix)
 
+
+## Deep Learning
+* [Cyclical Learning Rates](deep_learning/clr.md)
 
 ## GitHub
 * [Diffs in Pull Request](github/pr_diff.md)
