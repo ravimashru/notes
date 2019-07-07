@@ -13,6 +13,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 ## Deep Learning
 * [Custom Image Data Generator in Keras](deep_learning/keras_img_gen.md)
 * [Cyclical Learning Rates](deep_learning/clr.md)
+* [Using TPUs on Google Colab](deep_learning/tpu_colab.md)
 
 ## GitHub
 * [Diffs in Pull Request](github/pr_diff.md)
