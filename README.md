@@ -4,11 +4,15 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 # Index
 
+* [Data Science](#data-science)
 * [Deep Learning](#deep-learning)
 * [GitHub](#github)
 * [Ubuntu](#ubuntu)
 * [Unix](#unix)
 
+
+## Data Science
+* [Choosing a Chart](data_science/choosing_chart.md)
 
 ## Deep Learning
 * [Custom Image Data Generator in Keras](deep_learning/keras_img_gen.md)
