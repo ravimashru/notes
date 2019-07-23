@@ -7,6 +7,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [Data Science](#data-science)
 * [Deep Learning](#deep-learning)
 * [GitHub](#github)
+* [JavaScript](#javascript)
 * [Ubuntu](#ubuntu)
 * [Unix](#unix)
 
@@ -21,6 +22,9 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 ## GitHub
 * [Diffs in Pull Request](github/pr_diff.md)
+
+## JavaScript
+* [ES6 Imports](javascript/es6_imports.md)
 
 ## Ubuntu
 * [Custom Date in Top Bar](ubuntu/custom_date_topbar.md)
