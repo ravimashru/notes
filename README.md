@@ -28,6 +28,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 ## Ubuntu
 * [Custom Date in Top Bar](ubuntu/custom_date_topbar.md)
+* [Installing a new font in Inkscape](ubuntu/inkscape_font.md)
 
 ## Unix
 * [grep vs egrep vs fgrep](unix/grep_egrep_fgrep.md)
