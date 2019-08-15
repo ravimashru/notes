@@ -37,7 +37,7 @@ try {
 
 ```java
 try ( Reader reader = Helper.getReader("file1.txt");
-	  Writer writer = Helper.getWriter("file2.txt"); ) {
+      Writer writer = Helper.getWriter("file2.txt"); ) {
 
 	// Do stuff with `reader` and `writer`
 
