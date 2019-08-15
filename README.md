@@ -7,6 +7,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [Data Science](#data-science)
 * [Deep Learning](#deep-learning)
 * [GitHub](#github)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Ubuntu](#ubuntu)
 * [Unix](#unix)
@@ -23,7 +24,12 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 ## GitHub
 * [Diffs in Pull Request](github/pr_diff.md)
 
+## Java
+
+- [try-with-resources](java/try-with-resources.md)
+
 ## JavaScript
+
 * [ES6 Imports](javascript/es6_imports.md)
 
 ## Ubuntu
