@@ -9,6 +9,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [GitHub](#github)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [NodeJS](#nodejs)
 * [Ubuntu](#ubuntu)
 * [Unix](#unix)
 
@@ -31,6 +32,10 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 ## JavaScript
 
 * [ES6 Imports](javascript/es6_imports.md)
+
+## NodeJS
+
+- [package-lock.json](nodejs/packagelock.md)
 
 ## Ubuntu
 * [Custom Date in Top Bar](ubuntu/custom_date_topbar.md)
