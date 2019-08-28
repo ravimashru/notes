@@ -10,6 +10,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [Java](#java)
 * [JavaScript](#javascript)
 * [NodeJS](#nodejs)
+* [React](#react)
 * [Ubuntu](#ubuntu)
 * [Unix](#unix)
 
@@ -36,6 +37,10 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 ## NodeJS
 
 - [package-lock.json](nodejs/packagelock.md)
+
+## React
+
+- [Using a reverse proxy](react/reverse-proxy.md)
 
 ## Ubuntu
 * [Custom Date in Top Bar](ubuntu/custom_date_topbar.md)
