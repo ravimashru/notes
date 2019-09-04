@@ -34,6 +34,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 ## JavaScript
 
 * [ES6 Imports](javascript/es6_imports.md)
+* [encodeURI vs encodeURIComponent](javascript/encodeuri_encodeuricomponent.md)
 
 ## MacOS
 
