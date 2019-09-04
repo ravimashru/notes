@@ -9,6 +9,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [GitHub](#github)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [MacOS](#macos)
 * [NodeJS](#nodejs)
 * [React](#react)
 * [Ubuntu](#ubuntu)
@@ -33,6 +34,10 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 ## JavaScript
 
 * [ES6 Imports](javascript/es6_imports.md)
+
+## MacOS
+
+- [Show/Hide Hidden Files](macos/hidden_files.md)
 
 ## NodeJS
 
