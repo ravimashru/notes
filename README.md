@@ -4,6 +4,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 # Index
 
+* [CSS](#css)
 * [Data Science](#data-science)
 * [Deep Learning](#deep-learning)
 * [GitHub](#github)
@@ -16,7 +17,13 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [Unix](#unix)
 
 
+
+## CSS
+
+- [The `box-sizing` property](css/box_sizing.md)
+
 ## Data Science
+
 * [Choosing a Chart](data_science/choosing_chart.md)
 
 ## Deep Learning
