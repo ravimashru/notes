@@ -26,6 +26,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 ## GitHub
 * [Diffs in Pull Request](github/pr_diff.md)
+* [All Issues Assigned](github/assigned_issues.md)
 
 ## Java
 
