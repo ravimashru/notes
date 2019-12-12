@@ -4,6 +4,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 # Index
 
+* [ABAP](#abap)
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Deep Learning](#deep-learning)
@@ -17,6 +18,10 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [Unix](#unix)
 
 
+
+## ABAP
+
+- [Clearing Internal Tables](abap/clearing-internal-tables.md)
 
 ## CSS
 
