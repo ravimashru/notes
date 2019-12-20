@@ -14,6 +14,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [MacOS](#macos)
 * [NodeJS](#nodejs)
 * [React](#react)
+* [TypeScript](#typescript)
 * [Ubuntu](#ubuntu)
 * [Unix](#unix)
 
@@ -61,7 +62,12 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 - [Using a reverse proxy](react/reverse-proxy.md)
 
+## TypeScript
+
+- [Import JSON files](typescript/import-json.md)
+
 ## Ubuntu
+
 * [Custom Date in Top Bar](ubuntu/custom_date_topbar.md)
 * [Installing a new font in Inkscape](ubuntu/inkscape_font.md)
 
