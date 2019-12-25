@@ -1,5 +1,7 @@
 # Using TPUs on Google Colaboratory
 
+*Update (25 December 2019) - This approach doesn't work anymore. The TPU API changed in TF 1.15 which is now the version on Colab by default.*
+
 1. Change imports from `keras` to `tensorflow.keras`.
 
 ```
