@@ -27,6 +27,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 ## CSS
 
 - [The `box-sizing` property](css/box_sizing.md)
+- [Margin collapsing](css/margin_collapsing.md)
 
 ## Data Science
 
