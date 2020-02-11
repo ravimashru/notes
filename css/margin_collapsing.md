@@ -1,6 +1,6 @@
 # Margin Collapsing
 
-- Margins of blocks are combined (collapsed) into single margin whose size is largest of individual margins.
+- Margins of blocks are combined (collapsed) into single margin whose size is largest of individual margins. (Blocks = block elements. Margin collapsing doesn't happen if there is a different `display` property, e.g. `display: flex;`)
 
 - Affects only top and bottom margins.
 
@@ -24,4 +24,4 @@
 
 
 
-**Source: **https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing
+**Source:** https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing
