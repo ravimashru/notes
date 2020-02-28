@@ -38,9 +38,10 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [Cyclical Learning Rates](deep_learning/clr.md)
 * [Using TPUs on Google Colab](deep_learning/tpu_colab.md)
 
-## GitHub
+## Git & GitHub
 * [Diffs in Pull Request](github/pr_diff.md)
 * [All Issues Assigned](github/assigned_issues.md)
+* [Combine Multiple Commits](github/combine_multiple_commits.md)
 
 ## Java
 
