@@ -8,7 +8,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Deep Learning](#deep-learning)
-* [GitHub](#github)
+* [GitHub](#git-and-github)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [MacOS](#macos)
@@ -38,7 +38,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [Cyclical Learning Rates](deep_learning/clr.md)
 * [Using TPUs on Google Colab](deep_learning/tpu_colab.md)
 
-## Git & GitHub
+## Git and GitHub
 * [Diffs in Pull Request](github/pr_diff.md)
 * [All Issues Assigned](github/assigned_issues.md)
 * [Combine Multiple Commits](github/combine_multiple_commits.md)
