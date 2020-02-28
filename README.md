@@ -8,7 +8,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Deep Learning](#deep-learning)
-* [GitHub](#git-and-github)
+* [Git and GitHub](#git-and-github)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [MacOS](#macos)
