@@ -51,7 +51,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 * [ES6 Imports](javascript/es6_imports.md)
 * [encodeURI vs encodeURIComponent](javascript/encodeuri_encodeuricomponent.md)
-* [[client|offset|scroll]Height](javascript/client_offset_scroll.md)
+* [(client|offset|scroll)Height](javascript/client_offset_scroll.md)
 
 ## MacOS
 
