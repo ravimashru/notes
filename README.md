@@ -56,6 +56,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 ## MacOS
 
 - [Show/Hide Hidden Files](macos/hidden_files.md)
+- [Homebrew](macos/homebrew.md)
 
 ## NodeJS
 
