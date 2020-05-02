@@ -78,3 +78,4 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 ## Unix
 * [grep vs egrep vs fgrep](unix/grep_egrep_fgrep.md)
 * [sed](unix/sed.md)
+* [Vim Cheat Sheet](unix/vim_cheat_sheet.md)
