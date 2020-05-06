@@ -79,3 +79,4 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [grep vs egrep vs fgrep](unix/grep_egrep_fgrep.md)
 * [sed](unix/sed.md)
 * [Vim Cheat Sheet](unix/vim_cheat_sheet.md)
+* [Save Less output to file](unix/less.md)
