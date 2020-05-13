@@ -18,6 +18,7 @@
 
 `set expandtab` - replace tab character with spaces.
 
+`syntax on` - enable syntax highlighting.
 
 
 ## Indenting Commands
