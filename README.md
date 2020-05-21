@@ -39,6 +39,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [Using TPUs on Google Colab](deep_learning/tpu_colab.md)
 
 ## Git and GitHub
+* [Default editor for Git Commit Messages](github/default_editor.md)
 * [Diffs in Pull Request](github/pr_diff.md)
 * [All Issues Assigned](github/assigned_issues.md)
 * [Combine Multiple Commits](github/combine_multiple_commits.md)
