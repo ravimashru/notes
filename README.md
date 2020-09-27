@@ -13,6 +13,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [JavaScript](#javascript)
 * [MacOS](#macos)
 * [NodeJS](#nodejs)
+* [Python](#python)
 * [React](#react)
 * [TypeScript](#typescript)
 * [Ubuntu](#ubuntu)
@@ -64,6 +65,10 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 ## NodeJS
 
 - [package-lock.json](nodejs/packagelock.md)
+
+## Python
+
+- [Nested list comprehensions](python/nested-list-comprehensions.md)
 
 ## React
 
