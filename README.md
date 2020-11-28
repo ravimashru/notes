@@ -60,6 +60,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 * [ES6 Imports](javascript/es6_imports.md)
 * [encodeURI vs encodeURIComponent](javascript/encodeuri_encodeuricomponent.md)
+* [for-in vs for-of](javascript/for_in_vs_for_of.md)
 * [client, offset and scroll - Height and Width](javascript/client_offset_scroll.md)
 
 ## MacOS
