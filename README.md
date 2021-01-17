@@ -75,7 +75,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 
 ## NestJS
 
-- [Extend `Request` type](nestjs/extending_request.md)
+- [Extend `Request` type](nestjs/extend_request.md)
 
 ## NodeJS
 
