@@ -14,6 +14,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [Java](#java)
 * [JavaScript](#javascript)
 * [MacOS](#macos)
+* [NestJS](#nestjs)
 * [NodeJS](#nodejs)
 * [Python](#python)
 * [React](#react)
@@ -72,9 +73,14 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 - [Show/Hide Hidden Files](macos/hidden_files.md)
 - [Homebrew](macos/homebrew.md)
 
+## NestJS
+
+- [Extend `Request` type](nestjs/extending_request.md)
+
 ## NodeJS
 
 - [package-lock.json](nodejs/packagelock.md)
+
 
 ## Python
 
