@@ -1,6 +1,6 @@
 # notes
 
-A collection of my notes about random things, inspired by @charliegerard's [dev-notes](https://github.com/charliegerard/dev-notes). Every note is a short markdown document that is too short to be a blog post on its own, and too long to just be scribbled on a page somewhere.
+A collection of my notes about random things, inspired by [@charliegerard's dev-notes](https://github.com/charliegerard/dev-notes). Every note is a short markdown document that is too short to be a blog post on its own, and too long to just be scribbled on a page somewhere.
 
 # Index
 
@@ -13,6 +13,7 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [Git and GitHub](#git-and-github)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kubernetes](#kubernetes)
 * [MacOS](#macos)
 * [NestJS](#nestjs)
 * [NodeJS](#nodejs)
@@ -68,6 +69,10 @@ A collection of my notes about random things, inspired by @charliegerard's [dev-
 * [for-in vs for-of](javascript/for_in_vs_for_of.md)
 * [client, offset and scroll - Height and Width](javascript/client_offset_scroll.md)
 * [DocumentFragment](javascript/document_fragment.md)
+
+## Kubernetes
+
+* [Restarting nginx controller](k8s/restart_nginx_controller.md)
 
 ## MacOS
 
