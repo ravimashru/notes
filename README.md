@@ -69,6 +69,7 @@ A collection of my notes about random things, inspired by [@charliegerard's dev-
 * [for-in vs for-of](javascript/for_in_vs_for_of.md)
 * [client, offset and scroll - Height and Width](javascript/client_offset_scroll.md)
 * [DocumentFragment](javascript/document_fragment.md)
+* [The Array `sort()` method](javascript/array_sort.md)
 
 ## Kubernetes
 
