@@ -31,6 +31,8 @@ To see a diff between B and C, there are two options:
 
 Note: when using the second approach, the commits made in the branch with `commit1` will be shown as **deletions** in the diff since technically, you need to delete those diffs to go from `commit1` to the latest common ancestor commit, and then reach `commit2`.
 
+More details and a demo: https://github.com/ravimashru/pr-diff-demo
+
 References:
 
 - [GitHub's Pull Request documentation](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests)
