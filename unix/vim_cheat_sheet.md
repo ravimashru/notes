@@ -27,3 +27,9 @@
 
 `gg=G` - Re-indent the entire file.
 
+
+## Searching
+
+After searching, an empty search pattern will repeat the last search. This works with /, :s and :g.
+
+Source: https://vim.fandom.com/wiki/Searching
