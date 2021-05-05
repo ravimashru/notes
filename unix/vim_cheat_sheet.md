@@ -20,6 +20,15 @@
 
 `syntax on` - enable syntax highlighting.
 
+## View whitespace characters
+
+Add to `.vimrc`:
+
+```
+set listchars=eol:$,tab:>·,trail:~,extends:>,precedes:<,space:·
+```
+
+Show the special characters using `:set list` and hide them using `:set nolist`
 
 ## Indenting Commands
 
