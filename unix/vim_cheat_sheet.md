@@ -42,3 +42,11 @@ Show the special characters using `:set list` and hide them using `:set nolist`
 After searching, an empty search pattern will repeat the last search. This works with /, :s and :g.
 
 Source: https://vim.fandom.com/wiki/Searching
+
+## Change current working directory
+
+In Vim: `:cd`
+
+In NERDTree: Focus on node in NERDTree tab that needs to be set as cwd and type characters `cd`
+
+
