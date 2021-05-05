@@ -49,4 +49,6 @@ In Vim: `:cd`
 
 In NERDTree: Focus on node in NERDTree tab that needs to be set as cwd and type characters `cd`
 
+## NERDTree
 
+Open selected node in a new buffer: place cursor on the folder and press `t`.
