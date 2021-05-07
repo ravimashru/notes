@@ -20,6 +20,8 @@
 
 `syntax on` - enable syntax highlighting.
 
+To check for configured value, use `?`, e.g. `:set tabstop?`.
+
 ## View whitespace characters
 
 Add to `.vimrc`:
