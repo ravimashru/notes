@@ -34,9 +34,13 @@ Show the special characters using `:set list` and hide them using `:set nolist`
 
 ## Indenting Commands
 
-`==` - indent the current line.
+`==` - Correct indentation of the current line.
 
 `gg=G` - Re-indent the entire file.
+
+`>>` - Increase indentation of current line.
+
+`<<` - Decrease indentation of the current line.
 
 
 ## Searching
