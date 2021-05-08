@@ -20,6 +20,10 @@
 
 `syntax on` - enable syntax highlighting.
 
+`set splitbelow` - open split pane below open pane
+
+`set splitright` - open split pane to the right of open pane
+
 To check for configured value, use `?`, e.g. `:set tabstop?`.
 
 ## View whitespace characters
