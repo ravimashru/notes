@@ -11,6 +11,7 @@ A collection of my notes about random things, inspired by [@charliegerard's dev-
 * [Deep Learning](#deep-learning)
 * [Docker](#docker)
 * [Git and GitHub](#git-and-github)
+* [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kubernetes](#kubernetes)
@@ -57,6 +58,10 @@ A collection of my notes about random things, inspired by [@charliegerard's dev-
 * [Default editor for Git Commit Messages](github/default_editor.md)
 * [Diffs in Pull Request](github/pr_diff.md)
 * [Git Aliases](github/git_alias.md)
+
+## HTML
+
+* [Custom favicon location](html/custom-favicon-location.md)
 
 ## Java
 
