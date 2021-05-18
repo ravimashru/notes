@@ -117,6 +117,7 @@ A collection of my notes about random things, inspired by [@charliegerard's dev-
 * [sed](unix/sed.md)
 * [Vim Cheat Sheet](unix/vim_cheat_sheet.md)
 * [Save Less output to file](unix/less.md)
+* [tmux cheat sheet](unix/tmux_cheat_sheet.md)
 
 ## Others
 * [Center align contents of table in markdown](others/center_align_table_md.md)
