@@ -68,3 +68,9 @@ Open selected node in a new tab: place cursor on the folder and press `t`.
 - Open buffer in split
   - Horizontal split: `:sb N`
   - Vertical split: `vert sb N`
+
+## Highlighting
+
+- Highlight all occurences of word under cursor (`*`)
+- Highlight all occurences of words that contain word under cursor (`g*`)
+- Hide all highlights - `:noh`
