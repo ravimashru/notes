@@ -61,4 +61,10 @@ In NERDTree: Focus on node in NERDTree tab that needs to be set as cwd and type 
 
 ## NERDTree
 
-Open selected node in a new buffer: place cursor on the folder and press `t`.
+Open selected node in a new tab: place cursor on the folder and press `t`.
+
+## Buffers
+
+- Open buffer in split
+  - Horizontal split: `:sb N`
+  - Vertical split: `vert sb N`
