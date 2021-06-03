@@ -69,6 +69,10 @@ Open selected node in a new tab: place cursor on the folder and press `t`.
   - Horizontal split: `:sb N`
   - Vertical split: `vert sb N`
 
+- Open a new file in split mode
+  - Horizontal split: `:sp filename`
+  - Vertical split: `:vsp filename`
+
 ## Highlighting
 
 - Highlight all occurences of word under cursor (`*`)
