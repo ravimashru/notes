@@ -87,3 +87,8 @@ Open selected node in a new tab: place cursor on the folder and press `t`.
 
  - Go to file under cursor - `gf`
  - Open file under cursor in new split - `C-W C-F`
+
+## FZF
+
+ - Open file in horizontal split - `C-x`
+ - open file in vertical split - `C-v`
