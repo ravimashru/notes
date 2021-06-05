@@ -73,8 +73,17 @@ Open selected node in a new tab: place cursor on the folder and press `t`.
   - Horizontal split: `:sp filename`
   - Vertical split: `:vsp filename`
 
+## Splits
+
+ - Move split to right - `C-W L`
+
 ## Highlighting
 
 - Highlight all occurences of word under cursor (`*`)
 - Highlight all occurences of words that contain word under cursor (`g*`)
 - Hide all highlights - `:noh`
+
+## Navigation
+
+ - Go to file under cursor - `gf`
+ - Open file under cursor in new split - `C-W C-F`
