@@ -92,3 +92,13 @@ Open selected node in a new tab: place cursor on the folder and press `t`.
 
  - Open file in horizontal split - `C-x`
  - open file in vertical split - `C-v`
+
+## Inserting a character as it is
+
+Problem: when pressing TAB, the tab character is automatically converted to spaces (because of `expandtab`)
+
+Solution: Press `Ctrl + V` and then press `TAB`. Works in insert and command (`:` at bottom) mode.
+
+Source: https://stackoverflow.com/questions/6951672/how-can-i-insert-a-real-tab-character-in-vim
+
+
