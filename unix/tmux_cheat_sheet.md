@@ -37,3 +37,6 @@ Use the `resize-pane` command. Examples:
 
 Source: https://michaelsoolee.com/resize-tmux-panes
 
+## Scrolling
+
+`ctrl + b` and then `[`. Hit `ESC` to quit scroll mode.
