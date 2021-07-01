@@ -101,4 +101,8 @@ Solution: Press `Ctrl + V` and then press `TAB`. Works in insert and command (`:
 
 Source: https://stackoverflow.com/questions/6951672/how-can-i-insert-a-real-tab-character-in-vim
 
+## Regular expressions with magic
 
+Any Vim search pattern can include the special sequence `\v` (very magic), and this will make every following character except a-zA-Z0-9 and '_' have special meaning. Using `\V` has the opposite effect: all characters have their literal meaning and must be preceded by `\` to activate their special meaning.
+
+Source: https://vim.fandom.com/wiki/Simplifying_regular_expressions_using_magic_and_no-magic
