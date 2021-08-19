@@ -123,3 +123,4 @@ A collection of my notes about random things, inspired by [@charliegerard's dev-
 
 ## Others
 * [Center align contents of table in markdown](others/center_align_table_md.md)
+* [Format contents of JSON file](others/format_json.md)
