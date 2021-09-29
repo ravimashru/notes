@@ -58,6 +58,7 @@ A collection of my notes about random things, inspired by [@charliegerard's dev-
 * [Default editor for Git Commit Messages](github/default_editor.md)
 * [Diffs in Pull Request](github/pr_diff.md)
 * [Git Aliases](github/git_alias.md)
+* [Delete All Local Branches](github/delete_all_local_branches.md)
 
 ## HTML
 
