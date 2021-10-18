@@ -87,6 +87,7 @@ Open selected node in a new tab: place cursor on the folder and press `t`.
 
  - Go to file under cursor - `gf`
  - Open file under cursor in new split - `C-W C-F`
+ - Go back - `C-O`, Go forward - `C-I`
 
 ## FZF
 
