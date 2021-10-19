@@ -1,6 +1,8 @@
 # notes
 
-A collection of my notes about random things, inspired by [@charliegerard's dev-notes](https://github.com/charliegerard/dev-notes). Every note is a short markdown document that is too short to be a blog post on its own, and too long to just be scribbled on a page somewhere.
+A collection of my TIL (Today I Learned) notes, inspired by [@charliegerard's dev-notes](https://github.com/charliegerard/dev-notes).
+
+Every note is a short markdown document that is too short to be a blog post on its own, and too long to just be scribbled on a page somewhere.
 
 # Index
 
