@@ -21,6 +21,7 @@ Every note is a short markdown document that is too short to be a blog post on i
 * [NestJS](#nestjs)
 * [NodeJS](#nodejs)
 * [Python](#python)
+* [Quotes](#quotes)
 * [React](#react)
 * [TypeScript](#typescript)
 * [Ubuntu](#ubuntu)
@@ -103,6 +104,10 @@ Every note is a short markdown document that is too short to be a blog post on i
 ## Python
 
 - [Nested list comprehensions](python/nested-list-comprehensions.md)
+
+## Quotes
+
+- [On Software Engineering](quotes/swe.md)
 
 ## React
 
