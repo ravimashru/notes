@@ -54,6 +54,7 @@ Every note is a short markdown document that is too short to be a blog post on i
 
 ## Docker
 * [Building images using BuildKit](docker/buildkit.md)
+* [Removing containers](docker/removing_containers.md)
 
 ## Git and GitHub
 * [All Issues Assigned](github/assigned_issues.md)
