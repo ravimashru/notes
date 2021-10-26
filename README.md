@@ -23,6 +23,7 @@ Every note is a short markdown document that is too short to be a blog post on i
 * [Python](#python)
 * [Quotes](#quotes)
 * [React](#react)
+* [Swift/SwiftUI/Combine](#swiftswiftuicombine)
 * [TypeScript](#typescript)
 * [Ubuntu](#ubuntu)
 * [Unix](#unix)
@@ -113,6 +114,10 @@ Every note is a short markdown document that is too short to be a blog post on i
 ## React
 
 - [Using a reverse proxy](react/reverse-proxy.md)
+
+## Swift/SwiftUI/Combine
+
+- [Initializing `@Binding` variables](swift_swiftui_combine/initializing_binding.md)
 
 ## TypeScript
 
