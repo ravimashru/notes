@@ -118,6 +118,7 @@ Every note is a short markdown document that is too short to be a blog post on i
 ## Swift/SwiftUI/Combine
 
 - [Initializing `@Binding` variables](swift_swiftui_combine/initializing_binding.md)
+- [`switchToLatest` operator](swift_swiftui_combine/switch_to_latest.md)
 
 ## TypeScript
 
