@@ -63,6 +63,8 @@ In NERDTree: Focus on node in NERDTree tab that needs to be set as cwd and type 
 
 Open selected node in a new tab: place cursor on the folder and press `t`.
 
+Open file/folder menu: press `m`.
+
 ## Buffers
 
 - Open buffer in split
