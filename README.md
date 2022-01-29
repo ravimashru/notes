@@ -64,6 +64,7 @@ Every note is a short markdown document that is too short to be a blog post on i
 * [Diffs in Pull Request](github/pr_diff.md)
 * [Git Aliases](github/git_alias.md)
 * [Delete All Local Branches](github/delete_all_local_branches.md)
+* [Reverting merge commits](github/revert_merge_commit.md)
 
 ## HTML
 
