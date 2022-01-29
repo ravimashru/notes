@@ -82,6 +82,7 @@ Every note is a short markdown document that is too short to be a blog post on i
 * [DocumentFragment](javascript/document_fragment.md)
 * [The Array `sort()` method](javascript/array_sort.md)
 * [Creating an array and filling it with a default value](javascript/array_fill.md)
+* [Debouncing the window resize event](javascript/debouncing_window_resize.md)
 
 ## Kubernetes
 
