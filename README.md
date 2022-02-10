@@ -13,6 +13,7 @@ Every note is a short markdown document that is too short to be a blog post on i
 * [Deep Learning](#deep-learning)
 * [Docker](#docker)
 * [Git and GitHub](#git-and-github)
+* [Go](#go)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -66,9 +67,14 @@ Every note is a short markdown document that is too short to be a blog post on i
 * [Delete All Local Branches](github/delete_all_local_branches.md)
 * [Reverting merge commits](github/revert_merge_commit.md)
 
+## Go
+
+- [Static Web Server](go/static_web_server.md)
+
 ## HTML
 
 * [Custom favicon location](html/custom-favicon-location.md)
+
 
 ## Java
 
