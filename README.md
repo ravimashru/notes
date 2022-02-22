@@ -7,6 +7,7 @@ Every note is a short markdown document that is too short to be a blog post on i
 # Index
 
 * [ABAP](#abap)
+* [Angular](#angular)
 * [Cloud Foundry](#cloud-foundry)
 * [CSS](#css)
 * [Data Science](#data-science)
@@ -34,6 +35,10 @@ Every note is a short markdown document that is too short to be a blog post on i
 ## ABAP
 
 - [Clearing Internal Tables](abap/clearing-internal-tables.md)
+
+## Angular
+
+- [Debugging using VS Code](angular/debugging_vscode.md)
 
 ## Cloud Foundry
 
