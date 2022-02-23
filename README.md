@@ -136,6 +136,7 @@ Every note is a short markdown document that is too short to be a blog post on i
 
 ## TypeScript
 
+- [`any` vs `unknown`](typescript/any-vs-unknown.md)
 - [Import JSON files](typescript/import-json.md)
 
 ## Ubuntu
