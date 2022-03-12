@@ -53,6 +53,13 @@ After searching, an empty search pattern will repeat the last search. This works
 
 Source: https://vim.fandom.com/wiki/Searching
 
+Find a character `x` in the current line:
+
+- `f-x`: find the next occurence of the character
+- `F-x`: find the previous occurence of the character
+- `;`: repeat in direction of search
+- `,`: repeat in reverse direction of search
+
 ## Change current working directory
 
 In Vim: `:cd`
@@ -87,6 +94,7 @@ Open file/folder menu: press `m`.
 
 ## Navigation
 
+ - Go to definition of method under cursor - `gd`
  - Go to file under cursor - `gf`
  - Open file under cursor in new split - `C-W C-F`
  - Go back - `C-O`, Go forward - `C-I`
