@@ -72,6 +72,8 @@ Every note is a short markdown document that is too short to be a blog post on i
 * [Git Aliases](github/git_alias.md)
 * [Delete All Local Branches](github/delete_all_local_branches.md)
 * [Reverting merge commits](github/revert_merge_commit.md)
+* [Rename branch](github/rename_branch.md)
+* [Move changes from one branch to another](github/move_changes_branch.md)
 
 ## Go
 
