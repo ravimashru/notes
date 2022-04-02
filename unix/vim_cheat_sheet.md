@@ -49,16 +49,24 @@ Show the special characters using `:set list` and hide them using `:set nolist`
 
 ## Searching
 
+### Repeat search
+
 After searching, an empty search pattern will repeat the last search. This works with /, :s and :g.
 
 Source: https://vim.fandom.com/wiki/Searching
 
-Find a character `x` in the current line:
+### Find a character `x` in the current line:
 
 - `f-x`: find the next occurence of the character
 - `F-x`: find the previous occurence of the character
 - `;`: repeat in direction of search
 - `,`: repeat in reverse direction of search
+
+### Search for a string in the register
+
+After pressing / to enter a search string, you can then use Ctrl-R and then type the letter representing the register that you want to use.
+
+Source: https://stackoverflow.com/questions/2312844/vim-yank-into-search-register
 
 ## Change current working directory
 
