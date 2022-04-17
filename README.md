@@ -1,5 +1,7 @@
 # notes
 
+**NOTE: I'm currently in the process of migration these notes from here to [my digital garden](https://notes.ravimashru.dev).**
+
 A collection of my TIL (Today I Learned) notes, inspired by [@charliegerard's dev-notes](https://github.com/charliegerard/dev-notes).
 
 Every note is a short markdown document that is too short to be a blog post on its own, and too long to just be scribbled on a page somewhere.
